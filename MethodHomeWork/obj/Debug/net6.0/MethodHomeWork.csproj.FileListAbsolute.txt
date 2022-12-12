@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Method-HomeWork\Method-Overloding\MethodHomeWork\MethodHomeWork\bin\Debug\net6.0\MethodHomeWork.exe
+C:\Users\Admin\Desktop\Method-HomeWork\Method-Overloding\MethodHomeWork\MethodHomeWork\bin\Debug\net6.0\MethodHomeWork.deps.json
+C:\Users\Admin\Desktop\Method-HomeWork\Method-Overloding\MethodHomeWork\MethodHomeWork\bin\Debug\net6.0\MethodHomeWork.runtimeconfig.json
+C:\Users\Admin\Desktop\Method-HomeWork\Method-Overloding\MethodHomeWork\MethodHomeWork\bin\Debug\net6.0\MethodHomeWork.dll
+C:\Users\Admin\Desktop\Method-HomeWork\Method-Overloding\MethodHomeWork\MethodHomeWork\bin\Debug\net6.0\MethodHomeWork.pdb
+C:\Users\Admin\Desktop\Method-HomeWork\Method-Overloding\MethodHomeWork\MethodHomeWork\obj\Debug\net6.0\MethodHomeWork.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Method-HomeWork\Method-Overloding\MethodHomeWork\MethodHomeWork\obj\Debug\net6.0\MethodHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Method-HomeWork\Method-Overloding\MethodHomeWork\MethodHomeWork\obj\Debug\net6.0\MethodHomeWork.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Method-HomeWork\Method-Overloding\MethodHomeWork\MethodHomeWork\obj\Debug\net6.0\MethodHomeWork.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Method-HomeWork\Method-Overloding\MethodHomeWork\MethodHomeWork\obj\Debug\net6.0\MethodHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Method-HomeWork\Method-Overloding\MethodHomeWork\MethodHomeWork\obj\Debug\net6.0\MethodHomeWork.dll
+C:\Users\Admin\Desktop\Method-HomeWork\Method-Overloding\MethodHomeWork\MethodHomeWork\obj\Debug\net6.0\refint\MethodHomeWork.dll
+C:\Users\Admin\Desktop\Method-HomeWork\Method-Overloding\MethodHomeWork\MethodHomeWork\obj\Debug\net6.0\MethodHomeWork.pdb
+C:\Users\Admin\Desktop\Method-HomeWork\Method-Overloding\MethodHomeWork\MethodHomeWork\obj\Debug\net6.0\MethodHomeWork.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Method-HomeWork\Method-Overloding\MethodHomeWork\MethodHomeWork\obj\Debug\net6.0\ref\MethodHomeWork.dll
